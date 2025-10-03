@@ -19,8 +19,8 @@
 
 ### ⚡ GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasyadav&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasyadav&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-Yadav-6696&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-Yadav-6696&theme=tokyonight" height="180em" />
 </div>
 
 ---
@@ -34,7 +34,7 @@
 
 ### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://github.com/vikasyadav">
+  <a href="https://github.com/Vikas-Yadav-6696">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-link">
