@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**Vikas-Yadav-6696/Vikas-Yadav-6696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey there, I'm Vikas Yadav</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Student+%7C+Aspiring+Software+%26+AI+Developer;Full+Stack+Learner;Passionate+about+Open+Source;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me  
+- 🎓 Student | Aspiring **Software & AI Developer**  
+- 💻 Skills: **Python, Java, C, HTML, CSS, JavaScript, W3.CSS, Bootstrap, AngularJS**  
+- 📚 Currently Learning: **Data Science & Artificial Intelligence**  
+- 🚀 Passionate about building impactful projects & exploring new technologies  
+- 🤝 Open to collaborations in **AI, Web Development & Open Source**  
+
+---
+
+### ⚡ GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasyadav&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasyadav&theme=tokyonight" height="180em" />
+</div>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,angular,git,github" />
+</p>
+
+---
+
+### 🌍 Connect With Me  
+<p align="center">
+  <a href="https://github.com/vikasyadav">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ "Code. Learn. Share. Repeat." ✨</p>
