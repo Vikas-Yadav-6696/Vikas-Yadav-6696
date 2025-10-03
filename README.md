@@ -13,7 +13,7 @@
 - 💻 Skills: **Python, Java, C, HTML, CSS, JavaScript, W3.CSS, Bootstrap, AngularJS**  
 - 📚 Currently Learning: **Data Science & Artificial Intelligence**  
 - 🚀 Passionate about building impactful projects & exploring new technologies  
-- 🤝 Open to collaborations in **AI, Web Development & Open Source**  
+- 🤝 Open to collaborations in **AI, Web Development & Open Source collaboration**  
 
 ---
 
