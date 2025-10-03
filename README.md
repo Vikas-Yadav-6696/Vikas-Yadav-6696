@@ -25,6 +25,20 @@
 
 ---
 
+### 📌 Pinned Projects  
+Here are some of my highlighted repositories:  
+
+[![Attendance Manager](https://img.shields.io/badge/Repo-Attendance_Manager-blue?style=for-the-badge&logo=github)](https://github.com/Vikas-Yadav-6696/Attendance-Manager)  
+_A complete attendance management system with CSV import, reports, and auto-absence marking._  
+
+[![Portfolio Website](https://img.shields.io/badge/Repo-Portfolio_Website-green?style=for-the-badge&logo=github)](https://github.com/Vikas-Yadav-6696/Portfolio-Website)  
+_My personal portfolio website showcasing skills, projects, and achievements._  
+
+[![AI Experiments](https://img.shields.io/badge/Repo-AI_Experiments-purple?style=for-the-badge&logo=github)](https://github.com/Vikas-Yadav-6696/AI-Experiments)  
+_A collection of small projects and notebooks exploring Data Science & AI._  
+
+---
+
 ### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,angular,git,github" />
