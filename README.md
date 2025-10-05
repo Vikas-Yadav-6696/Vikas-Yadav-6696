@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 <b>Tech Enthusiast | Aspiring Software & AI Developer</b>
-- 💻**Skills:** Python, Java, C, HTML, CSS, JavaScript, W3.CSS, Bootstrap, Tailwind, AngularJS, React, Node.js, MySQL, MongoDB
-
+- 💻 **Skills:** **Python**, **Java**, **C**, **HTML**, **CSS**, **JavaScript**, **W3.CSS**, **Bootstrap**, **Tailwind**, **AngularJS**, **React**, **Node.js**, **MySQL**, **MongoDB**
 - 📚 Currently Learning: **Data Science & Artificial Intelligence**  
 - 🚀 Passionate about building impactful projects & exploring new technologies  
 - 🤝 Open to collaborations in **AI, Web Development & Open Source collaboration**  
@@ -44,7 +43,7 @@ _A collection of small projects and notebooks exploring Data Science & AI._
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,tailwind,angular,react,nodejs,mysql,mongodb,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,tailwind,angular,react,nodejs,mysql,mongodb,git,github,vscode,pycharm&perline=20" />
 </p>
 
 
