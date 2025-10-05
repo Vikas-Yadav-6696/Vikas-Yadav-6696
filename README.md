@@ -44,7 +44,7 @@ _A collection of small projects and notebooks exploring Data Science & AI._
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,tailwind,angular,react,nodejs,mysql,mongodb,git,github" /> 
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bootstrap,tailwind,angular,react,nodejs,mysql,mongodb,git,github,vscode,pycharm" />
 </p>
 
 
