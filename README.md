@@ -3,8 +3,9 @@
 <h1 align="center">👋 Hey there, I'm Vikas Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%7C+Aspiring+Software+%26+AI+Developer;Full+Stack+Learner;Passionate+About+Open+Source+Collaboration;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&background=00000000&lines=🎓+Tech+Enthusiast+%7C+Aspiring+Software+%26+AI+Developer;💻+Skilled+in+Python%2C+Java%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+Bootstrap%2C+AngularJS;📚+Currently+Learning+Data+Science+%26+Artificial+Intelligence;🚀+Passionate+About+Building+Impactful+Projects+%26+Exploring+New+Technologies;🤝+Open+to+Collaborations+in+AI%2C+Web+Development+%26+Open+Source" alt="Typing SVG" />
 </p>
+
 
 ---
 
