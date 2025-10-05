@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 <b>Tech Enthusiast | Aspiring Software & AI Developer</b> <br><br>  
+- 🎓 <b>Tech Enthusiast | Aspiring Software & AI Developer</b>
 - 💻 Skills: **Python, Java, C, HTML, CSS, JavaScript, W3.CSS, Bootstrap, AngularJS**  
 - 📚 Currently Learning: **Data Science & Artificial Intelligence**  
 - 🚀 Passionate about building impactful projects & exploring new technologies  
