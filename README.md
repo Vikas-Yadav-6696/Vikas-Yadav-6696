@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Vikas Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Tech+Enthusiast+%7C+Aspiring+Software+%26+AI+Developer;Full+Stack+Learner;Passionate+about+Open+Source+Collaboration;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%7C+Aspiring+Software+%26+AI+Developer;Full+Stack+Learner;Passionate+About+Open+Source+Collaboration;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
